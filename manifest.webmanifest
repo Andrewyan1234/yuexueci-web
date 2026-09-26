@@ -1,0 +1,24 @@
+{
+  "name": "粤学词 · 广州中小学英语",
+  "short_name": "粤学词",
+  "description": "广州小学广州版与初中沪教牛津版英语单词音标跟读工具",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f4ef",
+  "theme_color": "#123f3a",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
