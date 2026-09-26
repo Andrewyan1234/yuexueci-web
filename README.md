@@ -4,7 +4,7 @@
 
 GitHub Pages 地址：
 
-`https://andrewyan1234.github.io/yuexueci/`
+`https://andrewyan1234.github.io/yuexueci-web/`
 
 ## 功能
 
