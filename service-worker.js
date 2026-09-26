@@ -1,4 +1,4 @@
-const CACHE_NAME = "yuexueci-v1";
+const CACHE_NAME = "yuexueci-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -8,10 +8,10 @@ const APP_SHELL = [
   "./primary-data.js",
   "./app.js",
   "./manifest.webmanifest",
-  "./lucide.min.js",
-  "./app-icon.svg",
-  "./apple-touch-icon.png",
-  "./app-icon-512.png"
+  "./assets/lucide.min.js",
+  "./assets/app-icon.svg",
+  "./assets/apple-touch-icon.png",
+  "./assets/app-icon-512.png"
 ];
 
 self.addEventListener("install", (event) => {
